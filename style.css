@@ -1,0 +1,199 @@
+.gallery img{
+    width:50%;
+}
+
+.front img{
+    width: 100%;
+}
+
+
+h2{
+    font-family: Impact, fantasy;
+    text-align: center;
+    font-size: 30px;
+    color: greenyellow;
+    font-style: italic;
+}
+
+h4{
+  font-family: Impact, fantasy;
+    font-size: 20px;
+    color: red;
+    font-style: italic;  
+}
+
+p{
+    font-family: cursive;
+    font-size: 18px;
+    color: red;
+    font-style: italic;
+}
+#menu{
+    width:100%;
+    height: 40px;
+    background-color: black;
+    padding-top: 12px;
+}
+
+#menu a{
+    color:#ffffff;
+    font-family:Helvetica, sans-serif;
+    font-size:18px;
+    text-decoration: none;
+    font-weight: 800;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#menu a:hover{
+    color:greenyellow;
+}
+
+
+#menu-1{
+   width:100%;
+    height: 40px;
+    background-color: black;
+    padding-top: 12px;  
+}
+#menu-1 a{
+    color:#ffffff;
+    font-family:Helvetica, sans-serif;
+    font-size:18px;
+    text-decoration: none;
+    font-weight: 800;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+    #menu-1 a:hover{
+    color:red;
+        }
+
+
+#menu-2{
+   width:100%;
+    height: 40px;
+    background-color: black;
+    padding-top: 12px;  
+}
+#menu-2 a{
+    color:#ffffff;
+    font-family:Helvetica, sans-serif;
+    font-size:18px;
+    text-decoration: none;
+    font-weight: 800;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+    #menu-2 a:hover{
+    color:greenyellow;
+        }
+
+
+#menu-3{
+   width:100%;
+    height: 40px;
+    background-color: black;
+    padding-top: 12px;  
+}
+#menu-3 a{
+    color:#ffffff;
+    font-family:Helvetica, sans-serif;
+    font-size:18px;
+    text-decoration: none;
+    font-weight: 800;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+    #menu-3 a:hover{
+    color:red;
+        }
+
+#menu-4{
+   width:100%;
+    height: 40px;
+    background-color: black;
+    padding-top: 12px;  
+}
+#menu-4 a{
+    color:#ffffff;
+    font-family:Helvetica, sans-serif;
+    font-size:18px;
+    text-decoration: none;
+    font-weight: 800;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+    #menu-4 a:hover{
+    color:greenyellow;
+        }
+#menu-5{
+   width:100%;
+    height: 40px;
+    background-color: black;
+    padding-top: 12px;  
+}
+#menu-5 a{
+    color:#ffffff;
+    font-family:Helvetica, sans-serif;
+    font-size:18px;
+    text-decoration: none;
+    font-weight: 800;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+    #menu-5 a:hover{
+    color:red;
+        }
+
+body{
+    background-color: black;
+}
+
+}
+#table a{
+    font-family: Helvetica, sans-serif;
+    text-decoration: none;
+    background-color: blanchedalmond;
+    padding: 10px;
+}
+
+
+
+#table table{
+    font-family: Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 2px;
+    border-bottom-style: dotted;
+    border-color: darkred;
+}
+#table th{
+  font-weight:800; 
+    background-color: red;
+    color: antiquewhite
+}
+#table td{
+     font-weight:800; 
+    color: antiquewhite
+    
+}
+
+#contact form{
+        padding:15px;
+        margin: 20px;
+      font-weight:800; 
+    background-color: darkred;
+    color: greenyellow;
+        
+}
